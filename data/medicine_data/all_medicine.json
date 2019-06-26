@@ -1,0 +1,870 @@
+[
+{
+     "title": "Dr. Ait Idder Laila",
+     "city": "Agadir",
+     "speciality_1": "Gynécologie-obstétrique",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528217319",
+    "gsm":"tel:0661438833",
+    "address": "bd Hassan 1er, imm Amal, 3em ét. appt 11, Anzi AGADIR",
+    "coordinate":{
+        "latitude": 30.412035,
+        "longitude": -9.564736
+    }
+},
+{
+     "title": "Dr. Annis Charifa",
+     "city": "Agadir",
+     "speciality_1": "Cardiologie",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528291676",
+    "gsm":"tel:0662728203",
+    "address": "Quartier Founty , imm. Maison d'Avocat 2, B 102, Etg 1 AGADIR",
+    "coordinate":{
+        "latitude": 30.402578,
+        "longitude": -9.578310
+    }
+},
+{
+     "title": "Dr. Arjdal M'bark",
+     "city": "Agadir",
+     "speciality_1": "Neurochirurgie",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528848586",
+    "gsm":"tel:0528848788",
+    "address": "bd Hassan II, galerie AlInbiaât, imm. 5, 1  ét. AGADIR",
+    "coordinate":{
+        "latitude": 30.415877,
+        "longitude": -9.594937
+    }
+},
+{
+     "title": "Dr. Bachiri Lahcen",
+     "city": "Agadir",
+     "speciality_1": "Gastro-entérologie",
+     "speciality_2": "Hépatologie",
+     "speciality_3": "",
+    tel: "tel:0528225060",
+    "gsm":"tel:0670798662",
+    "address": "bd Hassan 1er, imm. Borj Al Hikma 1  ét. n  4 AGADIR",
+    "coordinate":{
+        "latitude": 30.413365,
+        "longitude": -9.567371
+    }
+},
+{
+     "title": "Dr. Bougrini Hafida",
+     "city": "Agadir",
+     "speciality_1": "Cardiologie",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528221407",
+    "gsm":"",
+    "address": "9, bd Hassan 1er, imm. Guedira 2  ét. cité Massira AGADIR",
+    "coordinate":{
+        "latitude": 30.410601,
+        "longitude": -9.561323
+    }
+},
+{
+     "title": "Dr. ElMalki Mohamed",
+     "city": "Agadir",
+     "speciality_1": "Neurochirurgie",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528222219",
+    "gsm":"",
+    "address": "bd Hassan 1er, imm. Borj AlHikma, 2  ét. n  6, Cité Dakhla AGADIR",
+    "coordinate":{
+        "latitude": 30.413435,
+        "longitude": -9.567576
+    }
+},
+{
+     "title": "Dr. Mamdouh Rahma",
+     "city": "Agadir",
+     "speciality_1": "Gynécologie-obstétrique",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528843832",
+    "gsm":"",
+    "address": "bd Hassan II, Imm. Meryem 2  ét. AGADIR",
+    "coordinate":{
+        "latitude": 30.418620,
+        "longitude": -9.597749
+    }
+},
+{
+     "title": "Dr. Meraouf Mohamed",
+     "city": "Agadir",
+     "speciality_1": "Gynécologie-obstétrique",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528848018",
+    "gsm":"tel:0528848037",
+    "address": "bd Hassan II, imm. Ifrane 2, 3ét. AGADIR",
+    "coordinate":{
+        "latitude": 30.410554,
+        "longitude": -9.590409
+    }
+},
+{
+     "title": "Dr. Oulhous Ilham",
+     "city": "Agadir",
+     "speciality_1": "Dermatologie",
+     "speciality_2": "Vénéréologie",
+     "speciality_3": "",
+    tel: "tel:0528846484",
+    "gsm":"",
+    "address": "bd Hassan II, imm. Hassania, 1  étg. n   3 AGADIR",
+    "coordinate":{
+        "latitude": 30.416143,
+        "longitude": -9.594990
+    }
+},
+{
+     "title": "Dr. Oumast Adil",
+     "city": "Agadir",
+     "speciality_1": "Généraliste",
+     "speciality_2": "Médecin à domicile",
+     "speciality_3": "",
+    tel: "tel:0528239430",
+    "gsm":"tel:0638960532",
+    "address": "hay Dakhla Tamdid, bloc Laayoune n  16 AGADIR",
+    "coordinate":{
+        "latitude": 30.405530,
+        "longitude": -9.558359
+    }
+},
+{
+     "title": "Dr. Saoussany Halima",
+     "city": "Agadir",
+     "speciality_1": "Pédiatrie",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528292927",
+    "gsm":"tel:0661842939",
+    "address": "61, rue Khouribga, hay Mohammadi AGADIR",
+    "coordinate":{
+        "latitude": 30.430899,
+        "longitude": -9.555270
+    }
+},
+{
+     "title": "Dr. Abadi Karim",
+     "city": "Agadir",
+     "speciality_1": "Généraliste",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528820264",
+    "gsm":"",
+    "address": "rue Marrakech, imm. Achtouk, n  123 1  ét., q.i. AGADIR",
+    "coordinate":{
+        "latitude": 30.413950,
+        "longitude": -9.587940
+    }
+},
+{
+     "title": "Dr. Abbassi M'hamed",
+     "city": "Agadir",
+     "speciality_1": "Urologie",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528843112",
+    "gsm":"",
+    "address": "bd Moulay Abdallah, imm. D1, porte 3, 1   ét. appt. n  36 AGADIR",
+    "coordinate":{
+        "latitude": 30.420290,
+        "longitude": -9.596751
+    }
+},
+{
+     "title": "Dr. Abchar Aziz",
+     "city": "Agadir",
+     "speciality_1": "Chirurgie orthopédique et traumatologique",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528224040",
+    "gsm":"",
+    "address": "bd Abderrahim Bouabid, polyclinique de Souss AGADIR",
+    "coordinate":{
+        "latitude": 30.409360,
+        "longitude": -9.584425
+    }
+},
+{
+     "title": "Dr. Abia Abdeslam",
+     "city": "Agadir",
+     "speciality_1": "Oto-rhino-laryngologie",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528842942",
+    "gsm":"",
+    "address": "bd Moulay Abdallah, imm. M2 1  ét. AGADIR",
+    "coordinate":{
+        "latitude": 30.420290,
+        "longitude": -9.596729
+    }
+},
+{
+     "title": "Dr. Abouelfadel Zinelabidine",
+     "city": "Agadir",
+     "speciality_1": "Urologie",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528848465",
+    "gsm":"",
+    "address": "bd Hassan II, imm. Aît Souss, n  13, 4  ét. AGADIR",
+    "coordinate":{
+        "latitude": 30.414781,
+        "longitude": -9.593879
+    }
+},
+{
+     "title": "Dr. Aboulazhar Driss",
+     "city": "Agadir",
+     "speciality_1": "Ophtalmologie",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528841979",
+    "gsm":"",
+    "address": "51 Bis, bd Vingt Neuf Février, Talborjt AGADIR",
+    "coordinate":{
+        "latitude": 30.423663,
+        "longitude": -9.591663
+    }
+},
+{
+     "title": "Dr. Abray Hamid",
+     "city": "Agadir",
+     "speciality_1": "Généraliste",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528287008",
+    "gsm":"",
+    "address": "Hay El Hana, Sidi Al Haj Said, Drarga AGADIR",
+    "coordinate":{
+        "latitude": 30.379047,
+        "longitude": -9.478286
+    }
+},
+{
+     "title": "Dr. Achour Mohamed",
+     "city": "Agadir",
+     "speciality_1": "Gynécologie-obstétrique",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528842140",
+    "gsm":"",
+    "address": " rue Hôtel de ville, imm. Jamal 5  ét. n  21 AGADIR",
+    "coordinate":{
+        "latitude": 30.418542,
+        "longitude": -9.596477
+    }
+},
+{
+     "title": "Dr. Aderdour Rkia",
+     "city": "Agadir",
+     "speciality_1": "Généraliste",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528844787",
+    "gsm":"",
+    "address": "rue Fès, bloc 4 n  97 place des Bus AGADIR",
+    "coordinate":{
+        "latitude": 30.411681,
+        "longitude": -9.589064
+    }
+},
+{
+     "title": "Dr. Adiouane Nadia",
+     "city": "Agadir",
+     "speciality_1": "Généraliste",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528211560",
+    "gsm":"",
+    "address": "hay Essalam, pl. des Taxi	AGADIR",
+    "coordinate":{
+        "latitude": 30.401401,
+        "longitude": -9.547759
+    }
+},
+{
+     "title": "Dr. Adjar Abdallah",
+     "city": "Agadir",
+     "speciality_1": "Cardiologie",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528823849",
+    "gsm":"",
+    "address": "bd Hassan II, imm. Florida 2  ét. n  24 AGADIR",
+    "coordinate":{
+        "latitude": 30.410027,
+        "longitude": -9.589735
+    }
+},
+{
+     "title": "Agouzzal Hasnae",
+     "city": "Ait melloul",
+     "speciality_1": "Généraliste",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528308850",
+    "gsm":"",
+    "address": "bd Hassan II ang. rue de l'hôpital imm. Ibnou Sina 2  ét. appt. n  33 AIT MELLOUL",
+    "coordinate":{
+        "latitude": 30.343433,
+        "longitude": -9.502234
+    }
+},
+{
+     "title": "Bargach Chakib",
+     "city": "Ait melloul",
+     "speciality_1": "Généraliste",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528319957",
+    "gsm":"",
+    "address": "Temsia centre AIT MELLOUL",
+    "coordinate":{
+        "latitude": 30.332985,
+        "longitude": -9.483161
+    }
+},
+{
+     "title": "Bourida Jamila",
+     "city": "Ait melloul",
+     "speciality_1": "Généraliste",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528311030",
+    "gsm":"",
+    "address": "rte. principale , Lokléa AIT MELLOUL",
+    "coordinate":{
+        "latitude": 30.290633,
+        "longitude": -9.457466
+    }
+},
+{
+     "title": "Boutaam Lahoucine",
+     "city": "Ait melloul",
+     "speciality_1": "Généraliste",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528241383",
+    "gsm":"",
+    "address": "Rte Biougra , imm. Damou, 1  ét. AIT MELLOUL",
+    "coordinate":{
+        "latitude": 30.343532,
+        "longitude": -9.502324
+    }
+},
+{
+     "title": "Aqil Abderrahmane",
+     "city": "Ait melloul",
+     "speciality_1": "Pédiatrie",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528243221",
+    "gsm":"",
+    "address": "imm. Bicha rte. Tiznit, 1  ét. AIT MELLOUL",
+    "coordinate":{
+        "latitude": 30.343016,
+        "longitude": -9.502347
+    }
+},
+{
+     "title": "El Haddou Yousfi Ghizlane",
+     "city": "Ait melloul",
+     "speciality_1": "Pédiatrie",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528249756",
+    "gsm":"",
+    "address": "92, bd Hassan II, imm. Sabri 1  ét., rte Tiznit AIT MELLOUL",
+    "coordinate":{
+        "latitude": 30.343433,
+        "longitude": -9.502411
+    }
+},
+{
+     "title": "Ghailan Mohamed",
+     "city": "Ait melloul",
+     "speciality_1": "Allergologie",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528245424",
+    "gsm":"",
+    "address": "rte de Tiznit, imm Ibn Sina 4   ét. AIT MELLOUL",
+    "coordinate":{
+        "latitude": 30.343405,
+        "longitude": -9.502116
+    }
+},
+{
+     "title": "Idrissi Abdelaziz",
+     "city": "Ait melloul",
+     "speciality_1": "Ophtalmologie",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528242057",
+    "gsm":"",
+    "address": "bd Hassan II, imm. Bicha, 1  ét. rte de Tiznit AIT MELLOUL",
+    "coordinate":{
+        "latitude": 30.343016,
+        "longitude": -9.502349
+    }
+},
+{
+     "title": "Sabah Hassan",
+     "city": "Ait melloul",
+     "speciality_1": "Oto-rhino-laryngologie",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528248050",
+    "gsm":"",
+    "address": "rte de Tiznit , imm. Bicha, 2  ét. AIT MELLOUL",
+    "coordinate":{
+        "latitude": 30.343007,
+        "longitude": -9.502376
+    }
+},
+{
+     "title": "Zouhaoui Omar",
+     "city": "Ait melloul",
+     "speciality_1": "Généraliste",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528245306",
+    "gsm":"",
+    "address": "bd Hassan II, imm. commercial n  12 AIT MELLOUL",
+    "coordinate":{
+        "latitude": 30.3460791,
+        "longitude": -9.5024282
+    }
+},
+{
+     "title": "Schtareva Alena",
+     "city": "Ait melloul",
+     "speciality_1": "Généraliste",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528311529",
+    "gsm":"",
+    "address": "hay Aâribat , rte principale El Qleâa	AIT MELLOUL",
+    "coordinate":{
+        "latitude": 30.300535,
+        "longitude": -9.463613
+    }
+},
+{
+     "title": "Rmou Ali",
+     "city": "Ait melloul",
+     "speciality_1": "Généraliste",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:1:0528249138",
+    "gsm":"",
+    "address": "rte de Biougra , imm. El Herch AIT MELLOUL",
+    "coordinate":{
+        "latitude": 30.343646,
+        "longitude": -9.499227
+    }
+},
+{
+     "title": "Outoloub Saïd",
+     "city": "Ait melloul",
+     "speciality_1": "Généraliste",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528244874",
+    "gsm":"",
+    "address": "B-4 n  85 rte de Tiznit AIT MELLOUL",
+    "coordinate":{
+        "latitude": 30.341650,
+        "longitude": -9.502226
+    }
+},
+{
+     "title": "Oulhint Najat",
+     "city": "Ait melloul",
+     "speciality_1": "Généraliste",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528310909",
+    "gsm":"",
+    "address": "El Kliaa , rte Principale, imm. Abrouka, 1  ét. n  4 AIT MELLOUL",
+    "coordinate":{
+        "latitude": 30.296413,
+        "longitude": -9.461908
+    }
+},
+{
+     "title": "Merzoug Mustapha",
+     "city": "Ait melloul",
+     "speciality_1": "Généraliste",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528311501",
+    "gsm":"",
+    "address": "route Principale , Kleaâ	AIT MELLOUL",
+    "coordinate":{
+        "latitude": 30.299050,
+        "longitude": -9.462646
+    }
+},
+{
+     "title": "Khammal Rachid",
+     "city": "Ait melloul",
+     "speciality_1": "Généraliste",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528241625",
+    "gsm":"",
+    "address": "bd Massira , imm. Boumilla, 1  ét. AIT MELLOUL",
+    "coordinate":{
+        "latitude": 30.345516,
+        "longitude": -9.502667
+    }
+},
+{
+     "title": "Jroundi Tarik",
+     "city": "Ait melloul",
+     "speciality_1": "Généraliste",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528240189",
+    "gsm":"",
+    "address": "6, av, Hassan II , imm. Mabrouka AIT MELLOUL",
+    "coordinate":{
+        "latitude": 30.339613,
+        "longitude": -9.503316
+    }
+},
+{
+     "title": "Ikssi Fatima",
+     "city": "Ait melloul",
+     "speciality_1": "Généraliste",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0668306054",
+    "gsm":"",
+    "address": "146, bloc A , hay Almassira AIT MELLOUL",
+    "coordinate":{
+        "latitude": 30.342569,
+        "longitude": -9.487173
+    }
+},
+{
+     "title": "Ja Mohamed",
+     "city": "Ait melloul",
+     "speciality_1": "Généraliste",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528241607",
+    "gsm":"",
+    "address": "",
+    "coordinate":{
+        "latitude": 30.348261,
+        "longitude": -9.503504
+    }
+},
+{
+     "title": "Id-Hammouche Rachid",
+     "city": "Ait melloul",
+     "speciality_1": "Généraliste",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528247912",
+    "gsm":"",
+    "address": "207, rte de Taroudant , bloc 8 n  207, Azrou AIT MELLOUL",
+    "coordinate":{
+        "latitude": 30.360126,
+        "longitude": -9.459658
+    }
+},
+{
+     "title": "Dr. Sahibi Abdelaziz",
+     "city": "Inezgane",
+     "speciality_1": "Diabétologie",
+     "speciality_2": "Endocrinologie",
+     "speciality_3": "Nutrition",
+    tel: "tel:0528333333",
+    "gsm":"tel:0661380800",
+    "address": "10, bd Mokhtar Soussi, imm. Hagounia INEZGANE",
+    "coordinate":{
+        "latitude": 30.360021,
+        "longitude": -9.528068
+    }
+},
+{
+     "title": "Dr. Adoul Elhadi",
+     "city": "Inezgane",
+     "speciality_1": "Dermatologie",
+     "speciality_2": "Vénéréologie",
+     "speciality_3": "",
+    tel: "tel:0528833081",
+    "gsm":"",
+    "address": "av Moukhtar Soussi , imm. Hagounia INEZGANE",
+    "coordinate":{
+        "latitude": 30.362001,
+        "longitude": -9.528068
+    }
+},
+{
+     "title": "Dr. Adraoui Abdelalime",
+     "city": "Inezgane",
+     "speciality_1": "Ophtalmologie",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528333633",
+    "gsm":"",
+    "address": "bd Mohammed V, imm. Amanar 3  ét. appt. 25 INEZGANE",
+    "coordinate":{
+        "latitude": 30.359343,
+        "longitude": -9.533605
+    }
+},
+{
+     "title": "Dr. Agouzzal Moulay Brahim",
+     "city": "Inezgane",
+     "speciality_1": "Généraliste",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528832822",
+    "gsm":"",
+    "address": "5, rue de Tiznit INEZGANE",
+    "coordinate":{
+        "latitude": 30.356895,
+        "longitude": -9.534077
+    }
+},
+{
+     "title": "Dr. Aït Ouaoudid Nezha",
+     "city": "Inezgane",
+     "speciality_1": "Pédiatrie",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528333814",
+    "gsm":"",
+    "address": "17, av. Mokhtar Soussi , imm. Hagounia INEZGANE",
+    "coordinate":{
+        "latitude": 30.362001,
+        "longitude": -9.528068
+    }
+},
+{
+     "title": "Dr. Ait Raho Addi",
+     "city": "Inezgane",
+     "speciality_1": "Gynécologie-obstétrique",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528332622",
+    "gsm":"",
+    "address": "bd des F.a.r., imm. Ennakhil, 2  ét. appt. n  1 INEZGANE",
+    "coordinate":{
+        "latitude": 30.362264,
+        "longitude": -9.533948
+    }
+},
+{
+     "title": "Dr. Akharaz Lalla Fatima",
+     "city": "Inezgane",
+     "speciality_1": "Gynécologie-obstétrique",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528832481",
+    "gsm":"",
+    "address": "d Mohammed V , imm. Shehrazade 2  ét  INEZGANE",
+    "coordinate":{
+        "latitude": 30.358482,
+        "longitude": -9.534224
+    }
+},
+{
+     "title": "Dr. Ammari Najat",
+     "city": "Inezgane",
+     "speciality_1": "Généraliste",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528272940",
+    "gsm":"",
+    "address": "691 Bis, bd Bir Anzarane, route principale Dcheira INEZGANE",
+    "coordinate":{
+        "latitude": 30.371178,
+        "longitude": -9.533956
+    }
+},
+{
+     "title": "Dr. Benabed Aziz",
+     "city": "Inezgane",
+     "speciality_1": "Gynécologie-obstétrique",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528334455",
+    "gsm":"",
+    "address": "av Mohamed V , imm. Annakhil 3er ét. INEZGANE",
+    "coordinate":{
+        "latitude": 30.362289,
+        "longitude": -9.533967
+    }
+},
+{
+     "title": "Dr. Bendali Hassan",
+     "city": "Inezgane",
+     "speciality_1": "Cardiologie",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528334093",
+    "gsm":"",
+    "address": "16, av. Mokhtar Soussi , 1er ét., Hagounia INEZGANE",
+    "coordinate":{
+        "latitude": 30.360056,
+        "longitude": -9.528045
+    }
+},
+{
+     "title": "Dr. Bensalah Mostapha",
+     "city": "Inezgane",
+     "speciality_1": "Généraliste",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528832909",
+    "gsm":"",
+    "address": "111, bd Hassan 1er, 1er ét. INEZGANE",
+    "coordinate":{
+        "latitude": 30.356233,
+        "longitude": -9.538253
+    }
+},
+{
+     "title": "Dr. Berrada Mestour Assia",
+     "city": "Inezgane",
+     "speciality_1": "Oto-rhino-laryngologie",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528832643",
+    "gsm":"",
+    "address": "Bd Mokhtar Soussi , cplxe Hagounia N 11 INEZGANE",
+    "coordinate":{
+        "latitude": 30.360093,
+        "longitude": -9.528147
+    }
+},
+{
+     "title": "Dr. Bouaichi Chakir",
+     "city": "Inezgane",
+     "speciality_1": "Gynécologie-obstétrique",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528330331",
+    "gsm":"",
+    "address": "5, rue d'Aglou , appt.4 hay Hassani Taghzout INEZGANE",
+    "coordinate":{
+        "latitude": 30.359774,
+        "longitude": -9.534117
+    }
+},
+{
+     "title": "Dr. Boufous M'hamed Ben Ahmed",
+     "city": "Inezgane",
+     "speciality_1": "Généraliste",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528834402",
+    "gsm":"",
+    "address": "132, rue Ksima INEZGANE",
+    "coordinate":{
+        "latitude": 30.356964,
+        "longitude": -9.536155
+    }
+},
+{
+     "title": "Dr. Boulaoutaq ElHassan",
+     "city": "Inezgane",
+     "speciality_1": "Dermatologie",
+     "speciality_2": "Vénéréologie",
+     "speciality_3": "",
+    tel: "tel:0528333324",
+    "gsm":"",
+    "address": "av. des Far ang. Mohammed V, imm. Annakhil, 2eme ét. N 14 INEZGANE",
+    "coordinate":{
+        "latitude": 30.362320,
+        "longitude": -9.533966
+    }
+},
+{
+     "title": "Dr. Boulhouda Mly Ahmed",
+     "city": "Inezgane",
+     "speciality_1": "Oto-rhino-laryngologie",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528337185",
+    "gsm":"",
+    "address": "bd Mokhtar Soussi, imm. Elfar N 51, 4eme ét., appt. 10 INEZGANE",
+    "coordinate":{
+        "latitude": 30.359487,
+        "longitude": -9.529236
+    }
+},
+{
+     "title": "Dr. Bourich Hassan",
+     "city": "Inezgane",
+     "speciality_1": "Ophtalmologie",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528337772",
+    "gsm":"",
+    "address": "bd Mohamed V , résid. Nakhil 2eme ét. N 16 INEZGANE",
+    "coordinate":{
+        "latitude": 30.362283,
+        "longitude": -9.533940
+    }
+},
+{
+     "title": "Dr. Zahidi Omar",
+     "city": "Inezgane",
+     "speciality_1": "Chirurgie orthopédique et traumatologique",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528333323",
+    "gsm":"",
+    "address": "32, bd Mohammed V, imm. Amanar 4eme ét. INEZGANE",
+    "coordinate":{
+        "latitude": 30.372786,
+        "longitude": -9.552881
+    }
+},
+{
+     "title": "Dr. Zahidi M'Bark",
+     "city": "Inezgane",
+     "speciality_1": "Chirurgie orthopédique et traumatologique",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528332211",
+    "gsm":"",
+    "address": "14, bd Mohammed V, imm. Annakhil 3  ét. INEZGANE",
+    "coordinate":{
+        "latitude": 30.362289,
+        "longitude": -9.533966
+    }
+},
+{
+     "title": "Dr. Thimou Hmida",
+     "city": "Inezgane",
+     "speciality_1": "Généraliste",
+     "speciality_2": "",
+     "speciality_3": "",
+    tel: "tel:0528331314",
+    "gsm":"",
+    "address": "av Mly Ali Cherif , 1er ét. q.Tarrast INEZGANE",
+    "coordinate":{
+        "latitude": 30.352661,
+        "longitude": -9.556012
+    }
+},
+]

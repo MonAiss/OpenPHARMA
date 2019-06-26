@@ -1,0 +1,2253 @@
+[
+  {
+     "title": "Pharmacie Agadir Bay",
+     "city": "Agadir",
+     "address": "Magasin N  23, Imm. 10, Agadir bay, Agadir 80000",
+    tel: "tel:0528232303",
+       "coordinate":{
+       "latitude": 30.4008663,
+     "longitude": -9.584556
+  }
+  },
+  {
+     "title": "Pharmacie Andalosia",
+     "city": "Agadir",
+     "address": "",
+    tel: "",
+       "coordinate":{
+       "latitude": 30.3978227,
+     "longitude": -9.5578702
+  }
+  },
+  {
+     "title": "Pharmacie AL Hamra",
+     "city": "Agadir",
+     "address": "Rue Chaïr al-Hamra Mohammed ben Brahim, Agadir 80000",
+    tel: "",
+       "coordinate":{
+       "latitude": 30.4122507,
+     "longitude": -9.5770647
+  }
+  },
+  {
+     "title": "Pharmacie Leghzaoui",
+     "city": "Agadir",
+     "address": "RImm 47 Magasin 62، Agadir 80000",
+    tel: "tel:0528324343",
+       "coordinate":{
+       "latitude": 30.425208,
+     "longitude": -9.5957097
+  }
+  },
+  {
+     "title": "Pharmacie Argane",
+     "city": "Agadir",
+     "address": "ERAC BOUARGANE, RUE ADRAR, N  39, Agadir 80040",
+    tel: "tel:0528227644",
+       "coordinate":{
+       "latitude": 30.42787,
+     "longitude": -9.5678577
+  }
+  },
+  {
+     "title": "Pharmacie Ennajd",
+     "city": "Agadir",
+     "address": "Avenue Hassan 1er, Agadir 80000",
+    tel: "tel:0528226907",
+       "coordinate":{
+       "latitude": 30.4078932,
+     "longitude": -9.5584961
+  }
+  },
+  {
+     "title": "Pharmacie Bd Mohamed V",
+     "city": "Agadir",
+     "address": "3 Bis, Bd Mohamed V, Cplx. Almoggar, 80000, Agadir 80000",
+    tel: "tel:0528824591",
+       "coordinate":{
+       "latitude": 30.4229119,
+     "longitude": -9.6109242
+  }
+  },
+  {
+     "title": "Pharmacie Les Parents",
+     "city": "Agadir",
+     "address": "28, bd Mehdi Ben Barka, Riad Salam, 80000 AGADIR",
+    tel: "tel:0528230942",
+       "coordinate":{
+       "latitude": 30.4088202,
+     "longitude": -9.5723695
+  }
+  },
+  {
+     "title": "Pharmacie Iqbal",
+     "city": "Agadir",
+     "address": "bd Mohamed Iqbal, Amsernat AGADIR",
+    tel: "tel:0528232330",
+       "coordinate":{
+       "latitude": 30.4161621,
+     "longitude": -9.5779753
+  }
+  },
+  {
+     "title": "Pharmacie Al Menzah",
+     "city": "Agadir",
+     "address": "Ave Des Forces Armees Royales, Agadir 80000",
+    tel: "",
+       "coordinate":{
+       "latitude": 30.4272087,
+     "longitude": -9.5950234
+  }
+  },
+  {
+     "title": "Pharmacie Karima",
+     "city": "Agadir",
+     "address": "bloc 4, n 529، Rue Taghazot, Agadir 80000",
+    tel: "tel:0528281814",
+       "coordinate":{
+       "latitude": 30.3890123,
+     "longitude": -9.5702291
+  }
+  },
+  {
+     "title": "Pharmacie Agadir oufela",
+     "city": "Agadir",
+     "address": "6, bd Mohammed V, imm. Sabri Rte du Port AGADIR",
+    tel: "tel:0528828165",
+       "coordinate":{
+       "latitude": 30.4245285,
+     "longitude": -9.6138371
+  }
+  },
+  {
+     "title": "Pharmacie Lotfy",
+     "city": "Agadir",
+     "address": "Rue Al Kawakibi, Agadir 80000",
+    tel: "tel:0528239009",
+       "coordinate":{
+       "latitude": 30.4116354,
+     "longitude": -9.5528189
+  }
+  },
+  {
+     "title": "Pharmacie Zineb",
+     "city": "Agadir",
+     "address": "residance baytii C ou 2, Agadir 80000 ",
+    tel: "tel:0528231044",
+       "coordinate":{
+       "latitude": 30.4406404,
+     "longitude": -9.562279
+  }
+  },
+  {
+     "title": "Pharmacie Les Amicales",
+     "city": "Agadir",
+     "address": "rue Imam Malik, cité les Amicales, 80000 AGADIR",
+    tel: "tel:0528228890",
+       "coordinate":{
+       "latitude": 30.4308998,
+     "longitude": -9.5824143
+  }
+  },
+  {
+     "title": "Pharmacie Radi",
+     "city": "Agadir",
+     "address": "",
+    tel: "",
+       "coordinate":{
+       "latitude": 30.3905665,
+     "longitude": -9.5758553
+  }
+  },
+  {
+     "title": "Pharmacie Assalam",
+     "city": "Agadir",
+     "address": "",
+    tel: "tel:0528235636",
+       "coordinate":{
+       "latitude": 30.4021827,
+     "longitude": -9.5514982
+  }
+  },
+  {
+     "title": "Pharmacie Borj Taddart",
+     "city": "Agadir",
+     "address": "Avenue Des Forces Armees Royales, Agadir 80030",
+    tel: "tel:0528823213",
+       "coordinate":{
+       "latitude": 30.4303728,
+     "longitude": -9.5892932
+  }
+  },
+  {
+     "title": "Pharmacie Abousaid",
+     "city": "Agadir",
+     "address": "22, bd Abderrahim Bouabid, imm. Zerktouni bloc F AGADIR",
+    tel: "tel:0528222492",
+       "coordinate":{
+       "latitude": 30.4182207,
+     "longitude": -9.5668334
+  }
+  },
+  {
+     "title": "Pharmacie Toubkal",
+     "city": "Agadir",
+     "address": "74 Rue Abde Rahman Alhodaygui, Agadir 80000",
+    tel: "tel:0528237872",
+       "coordinate":{
+       "latitude": 30.4092389,
+     "longitude": -9.5664324
+  }
+  },
+  {
+     "title": "Pharmacie Moussa Ibn Noussair",
+     "city": "Agadir",
+     "address": "Avenue Moussa Ben Noussair, Fès 80000",
+    tel: "tel:0528820816",
+       "coordinate":{
+       "latitude": 30.4178986,
+     "longitude": -9.5865229
+  }
+  },
+  {
+     "title": "Pharmacie Adrar",
+     "city": "Agadir",
+     "address": "quartier Adrar, résid. Saâda imm. 23 AGADIR",
+    tel: "tel:0528288099",
+       "coordinate":{
+       "latitude": 30.3860148,
+     "longitude": -9.5046296
+  }
+  },
+  {
+     "title": "Pharmacie Zerktouni",
+     "city": "Agadir",
+     "address": "Hay Khiam 2, rue 676, n° 13 AGADIR",
+    tel: "tel:0528222258",
+       "coordinate":{
+       "latitude": 30.4185538,
+     "longitude": -9.5698589
+  }
+  },
+  {
+     "title": "Pharmacie Anbary",
+     "city": "Agadir",
+     "address": "bd Hassan II, imm. Hasna, 80000 AGADIR",
+    tel: "tel:0528845592",
+       "coordinate":{
+       "latitude": 30.4235729,
+     "longitude": -9.6075574
+  }
+  },
+  {
+     "title": "Pharmacie Le Caducee",
+     "city": "Agadir",
+     "address": "6, bd Abderrahim Bouabid, imm. Mokhtar Soussi, 80000 AGADIR",
+    tel: "tel:0528232269",
+       "coordinate":{
+       "latitude": 30.4192569,
+     "longitude": -9.5640332
+  }
+  },
+  {
+     "title": "Pharmacie Azmi",
+     "city": "Agadir",
+     "address": "hay Riad Essalam, rue Omar Ben Jelloun, 80000 AGADIR",
+    tel: "tel:0528228482",
+     "coordinate":{
+       "latitude": 30.4104418,
+       "longitude": -9.575057
+    }
+ },
+ {
+     "title": "Pharmacie Conseil",
+     "city": "Agadir",
+     "address": "33 Bis, bd Imam El Boukhari, Erac Bouargane AGADIR",
+    tel: "tel:0528222139",
+     "coordinate":{
+       "latitude": 30.421977,
+       "longitude": -9.5625258
+    }
+ },
+ {
+     "title": "Pharmacie Assafa (Al Houda)",
+     "city": "Agadir",
+     "address": "",
+    tel: "tel:0528320873",
+     "coordinate":{
+       "latitude": 30.402468,
+       "longitude": -9.5448092
+    }
+ },
+ {
+     "title": "Pharmacie Al Mouna",
+     "city": "Agadir",
+     "address": "Rue Chaïr al-Hamra Mohammed ben Brahim, Agadir 80000",
+    tel: "",
+     "coordinate":{
+       "latitude": 30.4098827,
+       "longitude": -9.585608
+    }
+ },
+ {
+     "title": "Pharmacie Moustawsaf",
+     "city": "Agadir",
+     "address": "Bloc B, N 27 Bis Maalm Ali, En Face Ecole Jossour، Agadir 80000",
+    tel: "",
+     "coordinate":{
+       "latitude": 30.39097,
+       "longitude": -9.572183
+    }
+ },
+ {
+     "title": "Pharmacie El Alami",
+     "city": "Agadir",
+     "address": "hay Riad Essalam, imm. Aferni n°22 AGADIR",
+    tel: "tel:0528232957",
+     "coordinate":{
+       "latitude": 30.4067131,
+       "longitude": -9.5763254
+    }
+ },
+ {
+     "title": "Pharmacie Amrani",
+     "city": "Agadir",
+     "address": "Avenue Tifaouine, Agadir 80000",
+    tel: "tel:0528288074",
+     "coordinate":{
+       "latitude": 30.399426,
+       "longitude": -9.5168223
+    }
+ },
+ {
+     "title": "Pharmacie Riad Salam",
+     "city": "Agadir",
+     "address": "c. com. Sidi Youssef, n°2 AGADIR",
+    tel: "tel:0528220598",
+     "coordinate":{
+       "latitude": 30.4097518,
+       "longitude": -9.5785332
+    }
+ },
+ {
+     "title": "Pharmacie Fatihat Al Khair",
+     "city": "Agadir",
+     "address": "",
+    tel: "",
+     "coordinate":{
+       "latitude": 30.400009,
+       "longitude": -9.5696101
+    }
+ },
+ {
+     "title": "Pharmacie Tahiri",
+     "city": "Agadir",
+     "address": "rue Allal Ben Abdallah, Talborjt, 80000 AGADIR",
+    tel: "tel:0528823508",
+     "coordinate":{
+       "latitude": 30.4220475,
+       "longitude": -9.5975353
+    }
+ },
+ {
+     "title": "Pharmacie El Wafa",
+     "city": "Agadir",
+     "address": "25 Bis, bd Abderrahim Bouabid, cité El Wafa AGADIR",
+    tel: "tel:0528225946",
+     "coordinate":{
+       "latitude": 30.4226038,
+       "longitude": -9.5599455
+    }
+ },
+ {
+     "title": "Pharmacie Al Bouchra",
+     "city": "Agadir",
+     "address": "",
+    tel: "tel:0528284652",
+     "coordinate":{
+       "latitude": 30.3975865,
+       "longitude": -9.5205009
+    }
+ },
+ {
+     "title": "Pharmacie Valtur",
+     "city": "Agadir",
+     "address": "1, Hôtel Valtur - Sect. Touristique, Agadir 80000",
+    tel: "tel:0528822132",
+     "coordinate":{
+       "latitude": 30.4072955,
+       "longitude": -9.5994327
+    }
+ },
+ {
+     "title": "Pharmacie La Liberte",
+     "city": "Inezgane",
+     "address": "Avenue Bir Anzarane, Dcheira El Jihadia 86360",
+    tel: "tel:0528833003",
+     "coordinate":{
+       "latitude": 30.3715327,
+       "longitude": -9.5474937
+    }
+ },
+ {
+     "title": "Pharmacie Chellaoui",
+     "city": "Agadir",
+     "address": "Pl. des Taxis, q.i., 80000 AGADIR",
+    tel: "tel:0528820552",
+     "coordinate":{
+       "latitude": 30.4107867,
+       "longitude": -9.5912888
+    }
+ },
+ {
+     "title": "Pharmacie Dahabia",
+     "city": "Agadir",
+     "address": "535, Sect K, Elhouda, Agadir 80000",
+    tel: "tel:0528321426",
+     "coordinate":{
+       "latitude": 30.3955749,
+       "longitude": -9.5438915
+    }
+ },
+ {
+     "title": "Pharmacie Bab Al Hay",
+     "city": "Agadir",
+     "address": "",
+    tel: "tel:0528214577",
+     "coordinate":{
+       "latitude": 30.4286218,
+       "longitude": -9.5591837
+    }
+ },
+ {
+     "title": "Pharmacie Extention Dakhla",
+     "city": "Agadir",
+     "address": "K1005, Extension Dakhla , 80000 AGADIR",
+    tel: "tel:0528239445",
+     "coordinate":{
+       "latitude": 30.4051999,
+       "longitude": -9.5597041
+    }
+ },
+ {
+     "title": "Pharmacie Du Soleil",
+     "city": "Agadir",
+     "address": "bd John Kennedy, Talborjt, 80000 AGADIR",
+    tel: "tel:0528848004",
+     "coordinate":{
+       "latitude": 30.4214025,
+       "longitude": -9.5949543
+    }
+ },
+ {
+     "title": "Pharmacie Adam",
+     "city": "Agadir",
+     "address": "701, z.i Tilila, rue Mekka AGADIR",
+    tel: "tel:0528288080",
+     "coordinate":{
+       "latitude": 30.3964537,
+       "longitude": -9.5146581
+    }
+ },
+ {
+     "title": "Pharmacie Les Jardins De Souss",
+     "city": "Agadir",
+     "address": "hay Mohammadi, résid. des Jardins du Souss AGADIR",
+    tel: "tel:0528228427",
+     "coordinate":{
+       "latitude": 30.4362583,
+       "longitude": -9.5720006
+    }
+ },
+ {
+     "title": "Pharmacie Bahara",
+     "city": "Agadir",
+     "address": "",
+    tel: "tel:0528211186",
+     "coordinate":{
+       "latitude": 30.4287397,
+       "longitude": -9.5774442
+    }
+ },
+ {
+     "title": "Pharmacie Marina Agadir",
+     "city": "Agadir",
+     "address": "la Marina d'Agadir, n°M6 R19 AGADIR",
+    tel: "tel:0528824426",
+     "coordinate":{
+       "latitude": 30.423646,
+       "longitude": -9.6204947
+    }
+ },
+ {
+     "title": "Pharmacie Al Qods",
+     "city": "Agadir",
+     "address": "Avenue Al Imam Chafii, Agadir 80000",
+    tel: "",
+     "coordinate":{
+       "latitude": 30.4169312,
+       "longitude": -9.5573478
+    }
+ },
+ {
+     "title": "Pharmacie Amjad",
+     "city": "Agadir",
+     "address": "",
+    tel: "tel:0528291646",
+     "coordinate":{
+       "latitude": 30.3982184,
+       "longitude": -9.5744921
+    }
+ },
+ {
+     "title": "Pharmacie Moutaoakil",
+     "city": "Agadir",
+     "address": "27, rue Isli, rési. Riad Al Qods AGADIR",
+    tel: "tel:0528235287",
+     "coordinate":{
+       "latitude": 30.4201729,
+       "longitude": -9.5567885
+    }
+ },
+ {
+     "title": "Pharmacie Anir",
+     "city": "Agadir",
+     "address": "programme anir.162.imm16., 80000",
+    tel: "tel:0528324383",
+     "coordinate":{
+       "latitude": 30.3886025,
+       "longitude": -9.5398504
+    }
+ },
+ {
+     "title": "Pharmacie Houch",
+     "city": "Agadir",
+     "address": "lotiss. Al Houda, E 49 local n°3 AGADIR",
+    tel: "tel:0528320686",
+     "coordinate":{
+       "latitude": 30.3924105,
+       "longitude": -9.5390799
+    }
+ },
+ {
+     "title": "Pharmacie Al Kastalani",
+     "city": "Agadir",
+     "address": "",
+    tel: "tel:0528224258",
+     "coordinate":{
+       "latitude": 30.426228,
+       "longitude": -9.5823848
+    }
+ },
+ {
+     "title": "Pharmacie Tildi",
+     "city": "Agadir",
+     "address": "Lotiss. Tidli Rue Oued Ziz Bloc 4 N 8, Q.I., Agadir 80000",
+    tel: "tel:0528821178",
+     "coordinate":{
+       "latitude": 30.4162946,
+       "longitude": -9.588687
+    }
+ },
+ {
+     "title": "Pharmacie Ouahbi",
+     "city": "Agadir",
+     "address": "56, rue Al Wahda Al Wataniya Les Amicales AGADIR",
+    tel: "tel:0528233317",
+     "coordinate":{
+       "latitude": 30.4305992,
+       "longitude": -9.57937
+    }
+ },
+ {
+     "title": "Pharmacie Amsernat",
+     "city": "Agadir",
+     "address": "bd Deux Mars, q. Amsernat, 80000 AGADIR",
+    tel: "tel:0528239804",
+     "coordinate":{
+       "latitude": 30.415112,
+       "longitude": -9.5808828
+    }
+ },
+ {
+     "title": "Pharmacie Ennajah",
+     "city": "Agadir",
+     "address": "bd Massira El Khadra, les amicales des Fonctionnaires, 80000 AGADIR",
+    tel: "tel:0528222503",
+     "coordinate":{
+       "latitude": 30.4308368,
+       "longitude": -9.5761423
+    }
+ },
+ {
+     "title": "Pharmacie Jawhara",
+     "city": "Agadir",
+     "address": "",
+    tel: "tel:0631312244",
+     "coordinate":{
+       "latitude": 30.4311242,
+       "longitude": -9.5632553
+    }
+ },
+ {
+     "title": "Pharmacie Ennahda",
+     "city": "Agadir",
+     "address": "bd Moulay Ismail q. Ennahda, 80000 AGADIR",
+    tel: "tel:0528825045",
+     "coordinate":{
+       "latitude": 30.4271809,
+       "longitude": -9.5844555
+    }
+ },
+ {
+     "title": "Pharmacie Soufi",
+     "city": "Agadir",
+     "address": "4, bd Abdelkrim Khattabi, hay Al Massira AGADIR",
+    tel: "tel:0528233832",
+     "coordinate":{
+       "latitude": 30.4133355,
+       "longitude": -9.5682979
+    }
+ },
+ {
+     "title": "Pharmacie Malak",
+     "city": "Agadir",
+     "address": "42, bd Omar Ibn Khattab AGADIR",
+    tel: "tel:0528231039",
+     "coordinate":{
+       "latitude": 30.4338092,
+       "longitude": -9.5807165
+    }
+ },
+ {
+     "title": "Pharmacie Hadrane",
+     "city": "Agadir",
+     "address": "",
+    tel: "tel:0528845500",
+     "coordinate":{
+       "latitude": 30.4221666,
+       "longitude": -9.5785332
+    }
+ },
+ {
+     "title": "Pharmacie Europa",
+     "city": "Agadir",
+     "address": "bd Vingt Août, Hôtel Kenzi Europa AGADIR",
+    tel: "tel:0528824946",
+     "coordinate":{
+       "latitude": 30.4168534,
+       "longitude": -9.6050552
+    }
+ },
+ {
+     "title": "Pharmacie Le Complexe",
+     "city": "Agadir",
+     "address": "Hay Alwifaq، Agadir 80000",
+    tel: "tel:0528282307",
+     "coordinate":{
+       "latitude": 30.4277551,
+       "longitude": -9.6002956
+    }
+ },
+ {
+     "title": "Pharmacie Ayour",
+     "city": "Agadir",
+     "address": "Lot.61, secteur A , AlHouda AGADIR",
+    tel: "tel:0528321549",
+     "coordinate":{
+       "latitude": 30.3985801,
+       "longitude": -9.5330553
+    }
+ },
+ {
+     "title": "Pharmacie La Pergola",
+     "city": "Inezgane",
+     "address": "Avenue Mohammed V, Dcheira El Jihadia 80000",
+    tel: "tel:0528271975",
+     "coordinate":{
+       "latitude": 30.3720791,
+       "longitude": -9.552497
+    }
+ },
+ {
+     "title": "Pharmacie Principale",
+     "city": "Inezgane",
+     "address": "Avenue Bir Anzarane, Dcheira El Jihadia 86360",
+    tel: "tel:0661356121",
+     "coordinate":{
+       "latitude": 30.3710968,
+       "longitude": -9.5372044
+    }
+ },
+ {
+     "title": "Pharmacie Chadia",
+     "city": "Agadir",
+     "address": "lotiss. Mohammadia, n°2946 AGADIR",
+    tel: "tel:0528226478",
+     "coordinate":{
+       "latitude": 30.4262009,
+       "longitude": -9.5572019
+    }
+ },
+ {
+     "title": "Pharmacie Reda",
+     "city": "Agadir",
+     "address": "512, hay Mohammadi, hay abaraz AGADIR",
+    tel: "tel:0528222230",
+     "coordinate":{
+       "latitude": 30.445296,
+       "longitude": -9.5545966
+    }
+ },
+ {
+     "title": "Pharmacie Marhaba",
+     "city": "Agadir",
+     "address": "bd Mohammedia ang rue Errachidia hay Mohammadi AGADIR",
+    tel: "tel:0528231705",
+     "coordinate":{
+       "latitude": 30.4392269,
+       "longitude": -9.5586879
+    }
+ },
+ {
+     "title": "Pharmacie de la Mosquée",
+     "city": "Agadir",
+     "address": "Rue Essaouira, Agadir 80000",
+    tel: "tel:0528232969",
+     "coordinate":{
+       "latitude": 30.4121208,
+       "longitude": -9.5867589
+    }
+ },
+ {
+     "title": "Pharmacie Al Hayat",
+     "city": "Agadir",
+     "address": "Lot 137, Rue Safi, Agadir 80000",
+    tel: "tel:0524622269",
+     "coordinate":{
+       "latitude": 30.4117485,
+       "longitude": -9.5907551
+    }
+ },
+ {
+     "title": "Pharmacie Elmira",
+     "city": "Agadir",
+     "address": "",
+    tel: "tel:0528285959",
+     "coordinate":{
+       "latitude": 30.394177,
+       "longitude": -9.5173078
+    }
+ },
+ {
+     "title": "Pharmacie Souk Al Had",
+     "city": "Agadir",
+     "address": "",
+    tel: "tel:0661856325",
+     "coordinate":{
+       "latitude": 30.4134095,
+       "longitude": -9.5843697
+    }
+ },
+ {
+     "title": "Pharmacie Pasteur",
+     "city": "Agadir",
+     "address": "",
+    tel: "tel:0528217454",
+     "coordinate":{
+       "latitude": 30.4168329,
+       "longitude": -9.5607233
+    }
+ },
+ {
+     "title": "Pharmacie Chaab",
+     "city": "Agadir",
+     "address": "rue Président El Bekkay, q.i., 80000 AGADIR",
+    tel: "tel:0528847584",
+     "coordinate":{
+       "latitude": 30.4162408,
+       "longitude": -9.591279
+    }
+ },
+ {
+     "title": "Pharmacie Bella",
+     "city": "Agadir",
+     "address": "hay biranzaran, Agadir 80000",
+    tel: "",
+     "coordinate":{
+       "latitude": 30.3747148,
+       "longitude": -9.5132924
+    }
+ },
+ {
+     "title": "Pharmacie Moulay Youssef",
+     "city": "Agadir",
+     "address": "9, bd Moulay Youssef, Ennahda, 80000 AGADIR",
+    tel: "tel:0528827211",
+     "coordinate":{
+       "latitude": 30.4271416,
+       "longitude": -9.5911235
+    }
+ },
+ {
+     "title": "Pharmacie Hay Mohammadi",
+     "city": "Agadir",
+     "address": "187, hay Mohammadi AGADIR",
+    tel: "tel:0528217292",
+     "coordinate":{
+       "latitude": 30.4329501,
+       "longitude": -9.5533814
+    }
+ },
+ {
+     "title": "Pharmacie Bouargane",
+     "city": "Agadir",
+     "address": "831, Hay Khiam 2 , 80000 AGADIR",
+    tel: "tel:0528231145",
+     "coordinate":{
+       "latitude": 30.4236284,
+       "longitude": -9.5738474
+    }
+ },
+ {
+     "title": "Pharmacie Adoha",
+     "city": "Agadir",
+     "address": "hay Mohammadi, cplxe Adoha AGADIR",
+    tel: "tel:0528238595",
+     "coordinate":{
+       "latitude": 30.4310571,
+       "longitude": -9.5676327
+    }
+ },
+ {
+     "title": "Pharmacie Dcheira",
+     "city": "Inezgane",
+     "address": "Avenue Bir Anzarane, Dcheira El Jihadia 86360",
+    tel: "tel:0528270475",
+     "coordinate":{
+       "latitude": 30.3711894,
+       "longitude": -9.5434901
+    }
+ },
+ {
+     "title": "Pharmacie Atiqi",
+     "city": "Agadir",
+     "address": "23, Rue Adrar, Imm.Saada, Erac، Agadir 80000",
+    tel: "tel:0540099857",
+     "coordinate":{
+       "latitude": 30.4261066,
+       "longitude": -9.5642996
+    }
+ },
+ {
+     "title": "Pharmacie Cadi Ayad",
+     "city": "Agadir",
+     "address": "124, bd Cadi Ayad, q.i. AGADIR",
+    tel: "tel:0528221694",
+     "coordinate":{
+       "latitude": 30.4204366,
+       "longitude": -9.582932
+    }
+ },
+ {
+     "title": "Pharmacie Drarga",
+     "city": "Agadir",
+     "address": "Rte Principale Drarga, Sidi Elhaj Saïd, Agadir 80000",
+    tel: "tel:0528287127",
+     "coordinate":{
+       "latitude": 30.383533,
+       "longitude": -9.4810837
+    }
+ },
+ {
+     "title": "Pharmacie Ihchach",
+     "city": "Agadir",
+     "address": "cité du Prince héritier, bloc 2 n°108, 80000 AGADIR",
+    tel: "tel:0528222107",
+     "coordinate":{
+       "latitude": 30.4238449,
+       "longitude": -9.5869801
+    }
+ },
+ {
+     "title": "Pharmacie Majd",
+     "city": "Agadir",
+     "address": "lotiss. Tilila, n°3358 AGADIR",
+    tel: "tel:0528288989",
+     "coordinate":{
+       "latitude": 30.3985373,
+       "longitude": -9.5247485
+    }
+ },
+ {
+     "title": "Pharmacie Bousaid",
+     "city": "Agadir",
+     "address": "",
+    tel: "tel:0528238636",
+     "coordinate":{
+       "latitude": 30.4266906,
+       "longitude": -9.5797992
+    }
+ },
+ {
+     "title": "Pharmacie Iligh",
+     "city": "Agadir",
+     "address": "465, Quartier Illigh, clinique Illigh AGADIR",
+    tel: "tel:0528824394",
+     "coordinate":{
+       "latitude": 30.440004,
+       "longitude": -9.5916995
+    }
+ },
+ {
+     "title": "Pharmacie Assays Tikiouine",
+     "city": "Agadir",
+     "address": "",
+    tel: "",
+     "coordinate":{
+       "latitude": 30.3730696,
+       "longitude": -9.5053196
+    }
+ },
+ {
+     "title": "Pharmacie Jnane Adrar",
+     "city": "Agadir",
+     "address": "rte Nationale 8, résid. Jnane Adrar imm.14 n°2, 80000 AGADIR",
+    tel: "tel:0528264948",
+     "coordinate":{
+       "latitude": 30.3858754,
+       "longitude": -9.5004306
+    }
+ },
+ {
+     "title": "Pharmacie Anezi",
+     "city": "Agadir",
+     "address": "",
+    tel: "tel:0664007868",
+     "coordinate":{
+       "latitude": 30.4173805,
+       "longitude": -9.6023281
+    }
+ },
+ {
+     "title": "Pharmacie Shems",
+     "city": "Agadir",
+     "address": "",
+    tel: "",
+     "coordinate":{
+       "latitude": 30.4214545,
+       "longitude": -9.5948977
+    }
+ },
+ {
+     "title": "Pharmacie EL Hajjouji",
+     "city": "Agadir",
+     "address": "",
+    tel: "",
+     "coordinate":{
+       "latitude": 30.423548,
+       "longitude": -9.5899383
+    }
+ },
+ {
+     "title": "Pharmacie AL Kaoutar",
+     "city": "Agadir",
+     "address": "Dcheira El Jihadia 80000",
+    tel: "",
+     "coordinate":{
+       "latitude": 30.3690028,
+       "longitude": -9.5368906
+    }
+ },
+ {
+     "title": "Pharmacie EL Hanane",
+     "city": "Agadir",
+     "address": "El manzah 3B magazin 23 avenue des f.a.r Agadir 80000",
+    tel: "tel:0528848543",
+     "coordinate":{
+       "latitude": 30.4324748,
+       "longitude": -9.5850821
+    }
+ },
+ {
+     "title": "Pharmacie La Santé",
+     "city": "Agadir",
+     "address": "",
+    tel: "tel:0528284532",
+     "coordinate":{
+       "latitude": 30.3773002,
+       "longitude": -9.5039424
+    }
+ },
+ {
+     "title": "Pharmacie Enahda",
+     "city": "Agadir",
+     "address": "",
+    tel: "",
+     "coordinate":{
+       "latitude": 30.4255886,
+       "longitude": -9.5891411
+    }
+ },
+ {
+     "title": "Pharmacie Cokail",
+     "city": "Agadir",
+     "address": "Rue Talouzine, Lot. Bir Anzarane N 206 C Tikiouine, Agadir 80000",
+    tel: "tel:0528284789",
+     "coordinate":{
+       "latitude": 30.4277363,
+       "longitude": -9.6681477
+    }
+ },
+ {
+     "title": "Pharmacie Assaka",
+     "city": "Agadir",
+     "address": "Rue Ancien Chemin Chabab, Dcheira El Jihadia 80000",
+    tel: "",
+     "coordinate":{
+       "latitude": 30.3788795,
+       "longitude": -9.5175477
+    }
+ },
+ {
+     "title": "Pharmacie Des FAR",
+     "city": " Agadir",
+     "address": "7, bd des F.a.r., imm. ElManzeh, 80000 AGADIR",
+    tel: "tel:0528824332",
+     "coordinate":{
+       "latitude": 30.4286539,
+       "longitude": -9.5926097
+    }
+ },
+ {
+     "title": "Pharmacie  city Center",
+     "city": " Agadir",
+     "address": "",
+    tel: "tel:0528264193",
+     "coordinate":{
+       "latitude": 30.3960358,
+       "longitude": -9.5047644
+    }
+ },
+ {
+     "title": "Pharmacie AL-Akhawayne",
+     "city": " Agadir",
+     "address": "quartier Adrar, n° parcelle 2034 Tikiouine AGADIR",
+    tel: "tel:0528262177",
+     "coordinate":{
+       "latitude": 30.389748,
+       "longitude": -9.5028087
+    }
+ },
+ {
+     "title": "Pharmacie Idourane",
+     "city": " Agadir",
+     "address": "HAY IDOURANE، Awrir 80000",
+    tel: "tel:0528314318",
+     "coordinate":{
+       "latitude": 30.4277363,
+       "longitude": -9.6681477
+    }
+ },
+  {
+     "title": "Pharmacie Al Walidayne",
+     "city": " Agadir",
+     "address": "",
+    tel: "tel:0528288971",
+     "coordinate":{
+       "latitude": 30.3731539,
+       "longitude": -9.4906802
+    }
+ },
+ {
+     "title": "Pharmacie Hamzaoui",
+     "city": "Inezgane",
+     "address": "Avenue Faissal Ben Abdelaziz, Dcheira El Jihadia 86360",
+    tel: "0528272396",
+     "coordinate":{
+       "latitude": 30.3694653,
+       "longitude": -9.5468603
+    }
+ },
+ {
+     "title": "Pharmacie Agharasse",
+     "city": "Agadir",
+     "address": "agharass، Rue 601, Agadir 80000",
+    tel: "tel:0528221015",
+     "coordinate":{
+       "latitude": 30.4237188,
+       "longitude": -9.5704219
+    }
+ },
+ {
+     "title": "Pharmacie Hammam Aachak",
+     "city": "Agadir",
+     "address": "Avenue Allal El Fassi, Dcheira El Jihadia 86360",
+    tel: "",
+     "coordinate":{
+       "latitude": 30.3739697,
+       "longitude": -9.5378012
+    }
+ },
+ {
+     "title": "Pharmacie Dakhla",
+     "city": "Agadir",
+     "address": "14 Rue Al Farabi, Agadir 80000",
+    tel: "tel:0528222229",
+     "coordinate":{
+       "latitude": 30.4103561,
+       "longitude": -9.5580653
+    }
+ },
+ {
+     "title": "Pharmacie El Amri",
+     "city": "Agadir",
+     "address": "Hay Essalam, Agadir 80000",
+    tel: "tel:0528225206",
+     "coordinate":{
+       "latitude": 30.3998953,
+       "longitude": -9.5483288
+    }
+ },
+ {
+     "title": "Pharmacie Al Manar",
+     "city": "Agadir",
+     "address": "Rue 952, Agadir 80000",
+    tel: "tel:0528213545",
+     "coordinate":{
+       "latitude": 30.3986148,
+       "longitude": -9.5511087
+    }
+ },
+ 
+ {
+     "title": "Pharmacie Hassan",
+     "city": "Agadir",
+     "address": "Rue Taghazot, Agadir 80000",
+    tel: "tel:0528281775",
+     "coordinate":{
+       "latitude": 30.3888318,
+       "longitude": -9.5729006
+    }
+ },
+ {
+     "title": "Pharmacie Adlouni",
+     "city": "Agadir",
+     "address": "hay Al Houda, bloc K n°370 AGADIR",
+    tel: "tel:0528321112",
+     "coordinate":{
+       "latitude": 30.3924471,
+       "longitude": -9.5431448
+    }
+ },
+ {
+     "title": "Pharmaci France",
+     "city": "Agadir",
+     "address": "Rue Chaïr al-Hamra Mohammed ben Brahim, Agadir 80000",
+    tel: "tel:0528225483",
+     "coordinate":{
+       "latitude": 30.4132164,
+       "longitude": -9.5762879
+    }
+ },
+ {
+     "title": "Pharmacie Oubelkhir",
+     "city": "Agadir",
+     "address": "Hay Al Farah Rue 110, Bloc 5, Agadir 80000",
+    tel: "tel:0528280999",
+     "coordinate":{
+       "latitude": 30.399495,
+       "longitude": -9.5614297
+    }
+ },
+ {
+     "title": "Pharmacie des Facultés",
+     "city": "Agadir",
+     "address": "Al Wid , 06 Boulevard 11 Janvier, Agadir 80000",
+    tel: "tel:0528292796",
+     "coordinate":{
+       "latitude": 30.4063589,
+       "longitude": -9.5526338
+    }
+ },
+ {
+     "title": "Pharmacie Marjane Founty",
+     "city": "Agadir",
+     "address": "Marjane Founty, Ben Sergao, Agadir 80000",
+    tel: "tel:0528280393",
+     "coordinate":{
+       "latitude": 30.414762,
+       "longitude": -9.5651197
+    }
+ },
+ {
+     "title": "Pharmacie Aljisr",
+     "city": "Agadir",
+     "address": "N 25, ilôt 9, Avenue Laayoune, Agadir 80000",
+    tel: "tel:0528281368",
+     "coordinate":{
+       "latitude": 30.3908748,
+       "longitude": -9.5680162
+    }
+ },
+ {
+     "title": "Pharmacie Faicel",
+     "city": "Agadir",
+     "address": "N 1042 Extension Dakhla, Agadir 80000",
+    tel: "tel:0528238383",
+     "coordinate":{
+       "latitude": 30.405526,
+       "longitude": -9.5554447
+    }
+ },
+ {
+     "title": "Pharmacie Adouz",
+     "city": "Agadir",
+     "address": "hay Essalam, imm. Bicha, cplxe Azrou AGADIR",
+    tel: "tel:0661733026",
+     "coordinate":{
+       "latitude": 30.3965547,
+       "longitude": -9.5518989
+    }
+ },
+ {
+     "title": "Pharmacie Alma Vita",
+     "city": "Agadir",
+     "address": "8 Boulevard Ben Mahfoud Al Yaâcoubi, Agadir 80000",
+    tel: "tel:0528323377",
+     "coordinate":{
+       "latitude": 30.3989653,
+       "longitude": -9.5417816
+    }
+ },
+ {
+     "title": "Pharmacie Nour Alfarah 3",
+     "city": "Agadir",
+     "address": "Rue Fa 15, Agadir 80000",
+    tel: "tel:0528291050",
+     "coordinate":{
+       "latitude": 30.4009983,
+       "longitude": -9.5642142
+    }
+ },
+ {
+     "title": "Pharmacie Al Massira",
+     "city": "Agadir",
+     "address": "Avenue Jamal Abdennacer, Agadir 80000",
+    tel: "tel:0528223725",
+     "coordinate":{
+       "latitude": 30.4109229,
+       "longitude": -9.5702452
+    }
+ },
+ {
+     "title": "Pharmacie Chifa",
+     "city": "Agadir",
+     "address": "Avenue Moulay Hassan I, Agadir 80000",
+    tel: "tel:0528223712",
+     "coordinate":{
+       "latitude": 30.4091278,
+       "longitude": -9.5610425
+    }
+ },
+ {
+     "title": "Pharmacie Attawhid",
+     "city": "Agadir",
+     "address": "Rue 110, Agadir 80000",
+    tel: "tel:0528320002",
+     "coordinate":{
+       "latitude": 30.3947084,
+       "longitude": -9.5401132
+    }
+ },
+ {
+     "title": "Pharmacie Founty",
+     "city": "Agadir",
+     "address": "Boulevard Hassan II, Agadir 80000",
+    tel: "tel:0528844023",
+     "coordinate":{
+       "latitude": 30.4174875,
+       "longitude": -9.5985586
+    }
+ },
+ {
+     "title": "Pharmacie Jet Sakan",
+     "city": "Agadir",
+     "address": "",
+    tel: "tel:0528322064",
+     "coordinate":{
+       "latitude": 30.393001,
+       "longitude": -9.5509654
+    }
+ },
+ {
+     "title": "Pharmacie Ibn Zouhr",
+     "city": "Agadir",
+     "address": "Rue Aglou, Agadir 80000",
+    tel: "tel:0528235451",
+     "coordinate":{
+       "latitude": 30.4024982,
+       "longitude": -9.5548992
+    }
+ },
+ {
+     "title": "Pharmacie La Grande  AL farah",
+     "city": "Agadir",
+     "address": "hay El Farah 1, n°218 AGADIR",
+    tel: "tel:0528281287",
+     "coordinate":{
+       "latitude": 30.397452,
+       "longitude": -9.5705992
+    }
+ },
+ {
+     "title": "Pharmacie Al Fath",
+     "city": "Agadir",
+     "address": "bd Ferhat Hachad AGADIR",
+    tel: "tel:0528239595",
+     "coordinate":{
+       "latitude": 30.4130664,
+       "longitude": -9.5564685
+    }
+ },
+ {
+     "title": "Pharmacie Rachid",
+     "city": "Agadir",
+     "address": "Cité Drachidakhla, Agadir 80000",
+    tel: "tel:0528221192",
+     "coordinate":{
+       "latitude": 30.4143417,
+       "longitude": -9.5596223
+    }
+ },
+ {
+     "title": "Pharmacie El Wifaq",
+     "city": "Agadir",
+     "address": "305 , Avenue Hagounia, Agadir 80000",
+    tel: "tel:0528281303",
+     "coordinate":{
+       "latitude": 30.392558,
+       "longitude": -9.5658235
+    }
+ },
+ {
+     "title": "Pharmacie Souika",
+     "city": "Agadir",
+     "address": "bloc 4, n  178، Rue Aksri, Agadir 80000",
+    tel: "tel:0528280580",
+     "coordinate":{
+       "latitude": 30.3874389,
+       "longitude": -9.5709774
+    }
+ },
+ {
+     "title": "Pharmacie Yousra",
+     "city": "Agadir",
+     "address": "Ave Ghandi, Agadir 80000",
+    tel: "tel:0611273447",
+     "coordinate":{
+       "latitude": 30.4117245,
+       "longitude": -9.5626153
+    }
+ },
+ {
+     "title": "Pharmacie Azizi",
+     "city": "Agadir",
+     "address": "3 Avenue Ahmed Al Mansour Dahbi, Agadir 80000",
+    tel: "tel:0528239797",
+     "coordinate":{
+       "latitude": 30.4123594,
+       "longitude": -9.549171
+    }
+ },
+ {
+     "title": "Pharmacie 20 Aout",
+     "city": "Agadir",
+     "address": "180, bd Imam El Boukhari, Erac Bouargane AGADIR",
+    tel: "tel:0528233279",
+     "coordinate":{
+       "latitude": 30.4260129,
+       "longitude": -9.5676139
+    }
+ },
+ {
+     "title": "Pharmacie 2000",
+     "city": "Agadir",
+     "address": "bd Moulay Abdallah, résid. Karam AGADIR",
+    tel: "tel:0528842597",
+     "coordinate":{
+       "latitude": 30.4180172,
+       "longitude": -9.5960212
+    }
+ },
+ {
+     "title": "Pharmacie Aicha",
+     "city": "Agadir",
+     "address": "107, Hay Bensergao, lot. Militaire AGADIR",
+    tel: "tel:0528282019",
+     "coordinate":{
+       "latitude": 30.3882135,
+       "longitude": -9.5633673
+    }
+ },
+ {
+     "title": "Pharmacie Alikhlass",
+     "city": "Agadir",
+     "address": "24 Bis, rue Abdallah Ben Hsain, Cité Essalam, 80000 AGADIR",
+    tel: "tel:0528230676",
+     "coordinate":{
+       "latitude": 30.4021879,
+       "longitude": -9.5457643
+    }
+ },
+ {
+     "title": "Pharmacie Alma Vita",
+     "city": "Agadir",
+     "address": "hay Al Houda, bd Almahdi Ben Abboud AGADIR",
+    tel: "tel:0528323377",
+     "coordinate":{
+       "latitude": 30.3989653,
+       "longitude": -9.5395929
+    }
+ },
+ {
+     "title": "Pharmacie AlMichwar",
+     "city": "Agadir",
+     "address": "Hay Bensergao, lot. 297,quartier AlWifaq AGADIR",
+    tel: "tel:0528280728",
+     "coordinate":{
+       "latitude": 30.3878232,
+       "longitude": -9.5687388
+    }
+ },
+ {
+     "title": "Pharmacie av. Allal Fassi",
+     "city": "Agadir",
+     "address": "23, bd Allal El Fassi, Erac Bouargane AGADIR",
+    tel: "tel:0528229245",
+     "coordinate":{
+       "latitude": 30.4219955,
+       "longitude": -9.5646447
+    }
+ },
+ {
+     "title": "Pharmacie Bachouch",
+     "city": "Agadir",
+     "address": "445, Extention Dakhla , 80000 AGADIR",
+    tel: "tel:0528238207",
+     "coordinate":{
+       "latitude": 30.4057351,
+       "longitude": -9.5607237
+    }
+ },
+ {
+     "title": "Pharmacie Ben Rahal El batoire",
+     "city": "Agadir",
+     "address": "rue Fès, bloc 6 les Abattoires AGADIR",
+    tel: "tel:0528230890",
+     "coordinate":{
+       "latitude": 30.4089859,
+       "longitude": -9.5872631
+    }
+ },
+ {
+     "title": "Pharmacie Boutasra",
+     "city": "Agadir",
+     "address": "394 J, hay Al Wifaq, Ben Sergao AGADIR",
+    tel: "tel:0528280079",
+     "coordinate":{
+       "latitude": 30.3956871,
+       "longitude": -9.5737253
+    }
+ },
+ {
+     "title": "Pharmacie de la Gare",
+     "city": "Agadir",
+     "address": "11, bd Abderrahim Bouabid, cité Mly Rachid AGADIR",
+    tel: "tel:0528230378",
+     "coordinate":{
+       "latitude": 30.4158198,
+       "longitude": -9.5680994
+    }
+ },
+ {
+     "title": "Pharmacie ElHjouji",
+     "city": "Agadir",
+     "address": "129 Bis, rue Idrissi, Nouveau Talborjt AGADIR",
+    tel: "tel:0528822070",
+     "coordinate":{
+       "latitude": 30.423548,
+       "longitude": -9.5877496
+    }
+ },
+ {
+     "title": "Pharmacie ElKachla",
+     "city": "Agadir",
+     "address": "Hay Bensergao, n°39 bloc 6 AGADIR",
+    tel: "tel:0528280662",
+     "coordinate":{
+       "latitude": 30.394969,
+       "longitude": -9.5349166
+    }
+ },
+ {
+     "title": "Pharmacie ElMghari",
+     "city": "Agadir",
+     "address": "5, bd Hassan 1er imm. AlWifaq, cité Dakhla AGADIR",
+    tel: "tel:0528239764",
+     "coordinate":{
+       "latitude": 30.411727,
+       "longitude": -9.5641512
+    }
+ },
+ {
+     "title": "Pharmacie Hôpital Hassan II",
+     "city": "Agadir",
+     "address": "Charaf Haut , pavillon 4 AGADIR",
+    tel: "tel:0528820744",
+     "coordinate":{
+       "latitude": 30.4358078,
+       "longitude": -9.5869007
+    }
+ },
+ {
+     "title": "Pharmacie Houch",
+     "city": "Agadir",
+     "address": "lotiss. Al Houda, E 49 local n°3 AGADIR",
+    tel: "tel:0528320686",
+     "coordinate":{
+       "latitude": 30.3924105,
+       "longitude": -9.5368912
+    }
+ },
+ {
+     "title": "Pharmacie Ibn Malik",
+     "city": "Agadir",
+     "address": "171, z.i Anza, lot. Alwahda AGADIR",
+    tel: "tel:0528205075",
+     "coordinate":{
+       "latitude": 30.427755,
+       "longitude": -9.598107
+    }
+ },
+ {
+     "title": "Pharmacie Imam AlBoukhari",
+     "city": "Agadir",
+     "address": "100, bd Imam El Boukhari, Erac Bouargane, 80000 AGADIR",
+    tel: "tel:0528221468",
+     "coordinate":{
+       "latitude": 30.424202,
+       "longitude": -9.5642849
+    }
+ },
+ {
+     "title": "Pharmacie Itto",
+     "city": "Agadir",
+     "address": "264 C, cité Drarga, lot. Mesguina AGADIR",
+    tel: "tel:0528287612",
+     "coordinate":{
+       "latitude": 30.3832079,
+       "longitude": -9.4840457
+    }
+ },
+ {
+     "title": "Pharmacie la Gouira",
+     "city": "Agadir",
+     "address": "hay Al Massira, Drargua AGADIR",
+    tel: "tel:0528287298",
+     "coordinate":{
+       "latitude": 30.3797848,
+       "longitude": -9.4740692
+    }
+ },
+ {
+     "title": "Pharmacie le Complexe",
+     "city": "Agadir",
+     "address": "hay Al Wifaq, n° A/478 Ben Sergao AGADIR",
+    tel: "tel:0528282307",
+     "coordinate":{
+       "latitude": 30.4277551,
+       "longitude": -9.5981069
+    }
+ },
+ {
+     "title": "Pharmacie Misri",
+     "city": "Agadir",
+     "address": "cité Drarga, douar Igui Ikioi AGADIR",
+    tel: "tel:0528287979",
+     "coordinate":{
+       "latitude": 30.3804975,
+       "longitude": -9.4701585
+    }
+ },
+ {
+     "title": "Pharmacie Mohamed Rayane",
+     "city": "Agadir",
+     "address": "5525, hay Mohammadi, Lotiss Abaraze AGADIR",
+    tel: "tel:0528238140",
+     "coordinate":{
+       "latitude": 30.4423372,
+       "longitude": -9.5557612
+    }
+ },
+ {
+     "title": "Pharmacie Mouisset",
+     "city": "Agadir",
+     "address": "13, rue Dix Huit Novembre, q.i., 80000 AGADIR",
+    tel: "tel:0528826737",
+     "coordinate":{
+       "latitude": 30.4188684,
+       "longitude": -9.5905066
+    }
+ },
+ {
+     "title": "Pharmacie Niaamat Allah",
+     "city": "Agadir",
+     "address": "1, rue Makka, lot 1882 Tilila AGADIR",
+    tel: "tel:0528263030",
+     "coordinate":{
+       "latitude": 30.4038275,
+       "longitude": -9.515683
+    }
+ },
+ {
+     "title": "Pharmacie Nisrine",
+     "city": "Agadir",
+     "address": "58, Hay Bensergao, Ilot 1, lot. Ibn khaldoun, 80000 AGADIR",
+    tel: "tel:0528280502",
+     "coordinate":{
+       "latitude": 30.3874158,
+       "longitude": -9.5729649
+    }
+ },
+ {
+     "title": "Pharmacie Odessa",
+     "city": "Agadir",
+     "address": "hay Essalam, résid. Tarik Al Kheir 1, imm. 2, mag. 4, 80070 AGADIR",
+    tel: "tel:0528282882",
+     "coordinate":{
+       "latitude": 30.3954195,
+       "longitude": -9.5544072
+    }
+ },
+ {
+     "title": "Pharmacie Souika",
+     "city": "Agadir",
+     "address": "217, Hay Bensergao bloc 4, Ben Sergao AGADIR",
+    tel: "tel:0528280580",
+     "coordinate":{
+       "latitude": 30.4578322,
+       "longitude": -9.643963
+    }
+ },
+ {
+     "title": "Pharmacie Yousra",
+     "city": "Agadir",
+     "address": "8, bd Ghandi, cité Dakhla AGADIR",
+    tel: "tel:0611273447",
+     "coordinate":{
+       "latitude": 30.4117245,
+       "longitude": -9.5604266
+    }
+ },
+ {
+     "title": "Pharmacie Taiba",
+     "city": "Agadir",
+     "address": "2658, z.i Anza, route Principale, Taddart AGADIR",
+    tel: "tel:0528205961",
+     "coordinate":{
+       "latitude": 30.3874389,
+       "longitude": -9.5687887
+    }
+ },
+ {
+     "title": "Pharmacie Ait Moussa",
+     "city": "Ait Melloul",
+     "address": "10, rte Nationale , Ait Moussa, Temsia AIT MELLOUL",
+    tel: "tel:0528319932",
+     "coordinate":{
+       "latitude": 30.3679881,
+       "longitude": -9.3666514
+    }
+ },
+ {
+     "title": "Pharmacie Al Anwar",
+     "city": "Ait Melloul",
+     "address": "rte principale Leqliaa AIT MELLOUL",
+    tel: "tel:0528310236",
+     "coordinate":{
+       "latitude": 30.3005701,
+       "longitude": -9.4640543
+    }
+ },
+ {
+     "title": "Pharmacie Alazhar",
+     "city": "Ait Melloul",
+     "address": "105, bloc F , hay ElMassira, 80150 AIT MELLOUL",
+    tel: "tel:0528248318",
+     "coordinate":{
+       "latitude": 30.3483116,
+       "longitude": -9.490196
+    }
+ },
+ {
+     "title": "Pharmacie AlMaghreb AlArabi",
+     "city": "Ait Melloul",
+     "address": "57 C, Yassmina 1 , rte de Tiznit AIT MELLOUL",
+    tel: "tel:0528308494",
+     "coordinate":{
+       "latitude": 30.3288184,
+       "longitude": -9.5040667
+    }
+ },
+ {
+     "title": "Pharmacie Amlak Souss",
+     "city": "Ait Melloul",
+     "address": "lotiss. Amlak Souss , bloc 1 n°96 AIT MELLOUL",
+    tel: "tel:0528245214",
+     "coordinate":{
+       "latitude": 30.3348289,
+       "longitude": -9.508667
+    }
+ },
+ {
+     "title": "Pharmacie Ataoufiq",
+     "city": "Ait Melloul",
+     "address": "bd Mimouni Rmouki , bloc 3 n°92 AIT MELLOUL",
+    tel: "tel:0528308596",
+     "coordinate":{
+       "latitude": 30.413842,
+       "longitude": -9.552933
+    }
+ },
+ {
+     "title": "Pharmacie Atter",
+     "city": "Ait Melloul",
+     "address": "244, lotiss. AlFath AIT MELLOUL",
+    tel: "tel:0528249188",
+     "coordinate":{
+       "latitude": 30.3361901,
+       "longitude": -9.5066614
+    }
+ },
+ {
+     "title": "Pharmacie Berrada",
+     "city": "Ait Melloul",
+     "address": "q. Mly Omar , bloc 8 n°137 AIT MELLOUL",
+    tel: "tel:0528242419",
+     "coordinate":{
+       "latitude": 30.4151,
+       "longitude": -9.552616
+    }
+ },
+ {
+     "title": "Pharmacie Essounni",
+     "city": "Ait Melloul",
+     "address": "Hay ElMassira , bloc C 119 Chouhada, 80150 AIT MELLOUL",
+    tel: "tel:0528242800",
+     "coordinate":{
+       "latitude": 30.3443387,
+       "longitude": -9.4873666
+    }
+ },
+ {
+     "title": "Pharmacie Habiba",
+     "city": "Ait Melloul",
+     "address": "hay Laarab , bloc 4 n°54, Azrou AIT MELLOUL",
+    tel: "tel:0528243652",
+     "coordinate":{
+       "latitude": 30.3598837,
+       "longitude": -9.4665032
+    }
+ },
+ {
+     "title": "Pharmacie Ifoulki",
+     "city": "Ait Melloul",
+     "address": "Barmat 1 , lotiss . Ifoulki lot. n°7, Tamazart AIT MELLOUL",
+    tel: "tel:0528245376",
+     "coordinate":{
+       "latitude": 30.3438615,
+       "longitude": -9.5171696
+    }
+ },
+ {
+     "title": "Pharmacie Ikhourbane",
+     "city": "Ait Melloul",
+     "address": "douar Ikhourbane , Temsia AIT MELLOUL",
+    tel: "tel:0528839374",
+     "coordinate":{
+       "latitude": 30.3682554,
+       "longitude": -9.414035
+    }
+ },
+ {
+     "title": "Pharmacie Nouri",
+     "city": "Ait Melloul",
+     "address": "106, bd Hassan II, rte de Tiznit, 80150 AIT MELLOUL",
+    tel: "tel:0528243636",
+     "coordinate":{
+       "latitude": 30.3373446,
+       "longitude": -9.5043446
+    }
+ },
+ {
+     "title": "La Grande Pharmacie",
+     "city": "Ait Melloul",
+     "address": "32, rte principale de Taroudant , Azrou AIT MELLOUL",
+    tel: "tel:0528240072",
+     "coordinate":{
+       "latitude": 30.3604362,
+       "longitude": -9.4643435
+    }
+ },
+ {
+     "title": "Pharmacie Hassania",
+     "city": "Ait Melloul",
+     "address": "Avenue Agadir, Aït Melloul 80000",
+    tel: "tel:0626189930",
+     "coordinate":{
+       "latitude": 30.3461115,
+       "longitude": -9.509064
+    }
+ },
+ {
+     "title": "Pharmacie Saada",
+     "city": "Ait Melloul",
+     "address": "",
+    tel: "",
+     "coordinate":{
+       "latitude": 30.3306163,
+       "longitude": -9.5139215
+    }
+ },
+ {
+     "title": "Pharmacie Kolea",
+     "city": "Ait Melloul",
+     "address": "21 Bis, bd Mohamed VI , bloc 2 AIT MELLOUL",
+    tel: "tel:0528241312",
+     "coordinate":{
+       "latitude": 30.3462093,
+       "longitude": -9.5033886
+    }
+ },
+ {
+     "title": "Pharmacie Amarir",
+     "city": "Ait Melloul",
+     "address": "Lotissement Agadir، 6، Ait Melloul 86150",
+    tel: "tel:0528245139",
+     "coordinate":{
+       "latitude": 30.3355147,
+       "longitude": -9.5041984
+    }
+ },
+  {
+     "title": "Pharmacie Ait Melloul",
+     "city": "Ait Melloul",
+     "address": "Avenue Hassan II, Aït Melloul 80000",
+    tel: "tel:0528240731",
+     "coordinate":{
+       "latitude": 30.3438974,
+       "longitude": -9.5048576
+    }
+ },
+ {
+     "title": "Pharmacie Admine",
+     "city": "Ait Melloul",
+     "address": "3 Avenue Al Masjid, Aït Melloul 80000",
+    tel: "tel:0528248750",
+     "coordinate":{
+       "latitude": 30.347189,
+       "longitude": -9.4877159
+    }
+ },
+ {
+     "title": "Pharmacie Agdal",
+     "city": "Ait Melloul",
+     "address": "335, Hay Agdal 1 , rte Tiznit, 80150 AIT MELLOUL",
+    tel: "tel:0528246754",
+     "coordinate":{
+       "latitude": 30.3388007,
+       "longitude": -9.5019893
+    }
+ },
+ {
+     "title": "Pharmacie Nouvelle Ait Melloul",
+     "city": "Ait Melloul",
+     "address": "",
+    tel: "tel:0528241455",
+     "coordinate":{
+       "latitude": 30.322781,
+       "longitude": -9.5042601
+    }
+ },
+ {
+     "title": "Pharmacie Les Chalets",
+     "city": "Ait Melloul",
+     "address": "Avenue Hassan II, Aït Melloul 80000",
+    tel: "tel:0528243425",
+     "coordinate":{
+       "latitude": 30.3415838,
+       "longitude": -9.5042896
+    }
+ },
+ {
+     "title": "Pharmacie Al Moustakbal",
+     "city": "Ait Melloul",
+     "address": "Avenue Ait Baamrane, Aït Melloul 80000",
+    tel: "tel:0528249105",
+     "coordinate":{
+       "latitude": 30.3474852,
+       "longitude": -9.4966574
+    }
+ },
+ 	 {
+		 "title": "Grande pharmacie d'Amougay",
+		 "city": "Inezgane",
+		 "address": "av. Mohamed V , Quartier Amougay, Dcheira INEZGANE",
+		tel: "tel:0528837946",
+		 "coordinate":{
+		   "latitude": 30.3666452,
+		   "longitude": -9.5332122
+		}
+     },
+	 {
+		 "title": "La Grande Pharmacie Jorf",
+		 "city": "Inezgane",
+		 "address": "50, entrée arrondissement Jorf INEZGANE",
+		tel: "tel:0528833064",
+		 "coordinate":{
+		   "latitude": 30.3512642,
+		   "longitude": -9.5385782
+		}
+     },
+	 {
+		 "title": "Pharmacie Al Amane Al Jihadia",
+		 "city": "Inezgane",
+		 "address": "10, Résid. AlAmane V , Dcheira INEZGANE",
+		tel: "tel:0528837675",
+		 "coordinate":{
+		   "latitude": 30.3645071,
+		   "longitude": -9.5249963
+		}
+     },
+	 {
+		 "title": "Pharmacie Bouzgar",
+		 "city": "Inezgane",
+		 "address": "Bouzgar , rue 640 n°4 INEZGANE",
+		tel: "tel:0528838225",
+		 "coordinate":{
+		   "latitude": 30.3473915,
+		   "longitude": -9.5454508
+		}
+     },
+	 {
+		 "title": "PHARMACIE EL AMINE",
+		 "city": "Inezgane",
+		 "address": "409, bd Moukhtar Soussi , El Ghiaten, Dcheira INEZGANE",
+		tel: "tel:0528271177",
+		 "coordinate":{
+		   "latitude": 30.366304,
+		   "longitude": -9.538097
+		}
+     },
+	 {
+		 "title": "Pharmacie Hagounia",
+		 "city": "Inezgane",
+		 "address": "1, av Mokhtar Essoussi imm. Hagounia, 80350 INEZGANE",
+		tel: "tel:0528832161",
+		 "coordinate":{
+		   "latitude": 30.360124,
+		   "longitude": -9.5282967
+		}
+     },
+	 {
+		 "title": "Pharmacie Ksima",
+		 "city": "Inezgane",
+		 "address": "route principale , bloc 56 n°95, Dcheira, 80352 INEZGANE",
+		tel: "tel:0528273206",
+		 "coordinate":{
+		   "latitude": 30.391306,
+		   "longitude": -9.511042
+		}
+     },
+	 {
+		 "title": "Pharmacie Lot Couscouss",
+		 "city": "Inezgane",
+		 "address": "lot ElFaiz n°40 , rue 2071, Dcheira INEZGANE",
+		tel: "tel:0528272399",
+		 "coordinate":{
+		   "latitude": 30.3758129,
+		   "longitude": -9.5375007
+		}
+     },
+	 {
+		 "title": "Pharmacie Said",
+		 "city": "Inezgane",
+		 "address": "7, place de la Mosquée hay Saada , Dcheira INEZGANE",
+		tel: "tel:0528337193",
+		 "coordinate":{
+		   "latitude": 30.3737858,
+		   "longitude": -9.5500381
+		}
+     },
+	 {
+		 "title": "Pharmacie Titrite",
+		 "city": "Inezgane",
+		 "address": "304, lotiss. Abou Tarik , av Hassan II, El Jihadia, Dcheira, 0 INEZGANE",
+		tel: "tel:0528838761",
+		 "coordinate":{
+		   "latitude": 30.3699912,
+		   "longitude": -9.5262847
+		}
+     },
+	 {
+		 "title": "Pharmacie Tilila",
+		 "city": "Inezgane",
+		 "address": "Rte Igroumai, Dcheïra - ElJihadia , Dcheira INEZGANE",
+		tel: "tel:0528270525",
+		 "coordinate":{
+		   "latitude": 30.374309,
+		   "longitude": -9.5420431
+		}
+     },
+	 {
+		 "title": "Pharmacie Aghroud",
+		 "city": "Inezgane",
+		 "address": "",
+		tel: "",
+		 "coordinate":{
+		   "latitude": 30.3724974,
+		   "longitude": -9.5748234
+		}
+     },
+     {
+		 "title": "Pharmacie Tafoukt",
+		 "city": "Inezgane",
+		 "address": "Avenue Adarissa, Dcheira El Jihadia 86360",
+		tel: "tel:0528273622",
+		 "coordinate":{
+		   "latitude": 30.3717633,
+		   "longitude": -9.5350224
+		}
+     },
+     {
+		 "title": "Pharmacie Inezgane",
+		 "city": "Inezgane",
+		 "address": "Avenue Al Maskina, Inezgane 80000",
+		tel: "tel:0528832037",
+		 "coordinate":{
+		   "latitude": 30.3572599,
+		   "longitude": -9.5358274
+		}
+     },
+	 {
+		 "title": "Pharmacie Alamaouiine",
+		 "city": "Inezgane",
+		 "address": "av. AlAmaouiine , Aliouat- Tarrast INEZGANE",
+		tel: "tel:0528330574",
+		 "coordinate":{
+		   "latitude": 30.3498483,
+		   "longitude": -9.5548742
+		}
+	 },
+	 {
+		 "title": "Pharmacie Jorf",
+		 "city": "Inezgane",
+		 "address": "50, entrée arrondissement Jorf INEZGANE",
+		tel: "tel:0528833064",
+		 "coordinate":{
+		   "latitude": 30.3490169,
+		   "longitude": -9.5400248
+		}
+	 },
+	 {
+		 "title": "Pharmacie Argana",
+		 "city": "Inezgane",
+		 "address": "Avenue Prince Mouly Abdellah, Inezgane 80000",
+		tel: "tel:0528336830",
+		 "coordinate":{
+		   "latitude": 30.3578931,
+		   "longitude": -9.5401806
+		}
+	 },
+	 {
+		 "title": "Pharmacie Alwafa",
+		 "city": "Inezgane",
+		 "address": "Avenue Imam Taghazoute, Inezgane 80000",
+		tel: "tel:0528835032",
+		 "coordinate":{
+		   "latitude": 30.3522726,
+		   "longitude": -9.552735
+		}
+	 },
+	 {
+		 "title": "Pharmacie Annour Tarrast",
+		 "city": "Inezgane",
+		 "address": "Rue 1016 n 56 hay Annour Tarrast Inezgane، Inezgane 80000",
+		tel: "tel:0528838848",
+		 "coordinate":{
+		   "latitude": 30.3517492,
+		   "longitude": -9.5594855
+		}
+	 },
+	 {
+		 "title": "Pharmacie Essaada",
+		 "city": "Inezgane",
+		 "address": "Avenue Hassan 1er, Inezgane 80000",
+		tel: "tel:0528832815",
+		 "coordinate":{
+		   "latitude": 30.3552866,
+		   "longitude": -9.5405296
+		}
+	 },
+	 {
+		 "title": "Pharmacie Tarasste",
+		 "city": "Inezgane",
+		 "address": "route Principale , Tarraste INEZGANE",
+		tel: "tel:0528833033",
+		 "coordinate":{
+		   "latitude": 30.3523526,
+		   "longitude": -9.5497842
+		}
+	 },
+	 {
+		 "title": "Pharmacie Hader",
+		 "city": "Inezgane",
+		 "address": "Lot. Rmel 2, N E13, Tarrast, Inezgane, Agadir 80000",
+		tel: "tel:0528837650",
+		 "coordinate":{
+		   "latitude": 30.3584446,
+		   "longitude": -9.5518698
+		}
+	 },
+	 {
+		 "title": "Pharmacie Le Provincal",
+		 "city": "Inezgane",
+		 "address": "N10, Inezgane 80000",
+		tel: "tel:0648330030",
+		 "coordinate":{
+		   "latitude": 30.362408,
+		   "longitude": -9.5363635
+		}
+	 },
+	 {
+		 "title": "Pharmacie Taj",
+		 "city": "Inezgane",
+		 "address": "Avenue Moulay Ali Cherif, Inezgane 80000",
+		tel: "tel:0528334242",
+		 "coordinate":{
+		   "latitude": 30.3519296,
+		   "longitude": -9.5433795
+		}
+	 },
+	 {
+		 "title": "Pharmacie Jamal",
+		 "city": "Inezgane",
+		 "address": "Avenue des Forces Armées Royales, Inezgane 80000",
+		tel: "tel:0528333718",
+		 "coordinate":{
+		   "latitude": 30.364164,
+		   "longitude": -9.5417792
+		}
+	 },
+	 {
+		 "title": "Pharmacie Manar",
+		 "city": "Inezgane",
+		 "address": "59,Place Ali Ouhmane, Tarrast, Inezgane 80000",
+		tel: "tel:0528836634",
+		 "coordinate":{
+		   "latitude": 30.347389,
+		   "longitude": -9.5527947
+		}
+	 },
+	 {
+		 "title": "Pharmacie Chahir",
+		 "city": "Inezgane",
+		 "address": "Rue 558, Inezgane 80000",
+		tel: "tel:0528330101",
+		 "coordinate":{
+		   "latitude": 30.3474911,
+		   "longitude": -9.5443082
+		}
+	 },
+	 {
+		 "title": "Pharmacie Nouvelle Inzegane",
+		 "city": "Inezgane",
+		 "address": "",
+		tel: "tel:0528837860",
+		 "coordinate":{
+		   "latitude": 30.344865,
+		   "longitude": -9.5453241
+		}
+	 },
+	 {
+		 "title": "Pharmacie Massdoura",
+		 "city": "Inezgane",
+		 "address": "av bouzgar, Inezgane 80000",
+		tel: "tel:0528335044",
+		 "coordinate":{
+		   "latitude": 30.3499796,
+		   "longitude": -9.5421095
+		}
+	 },
+	 {
+		 "title": "Pharmacie 10 Ramadan",
+		 "city": "Inezgane",
+		 "address": "rue 569 n°149 , Tarrast INEZGANE",
+		tel: "tel:0528833866",
+		 "coordinate":{
+		   "latitude": 30.3510767,
+		   "longitude": -9.5437717
+		}
+	 },
+	 {
+		 "title": "Pharmacie De La Grande Mosquée",
+		 "city": "Inezgane",
+		 "address": "place de la grande mosquée tarrast, Inezgane 80000",
+		tel: "tel:0528330767",
+		 "coordinate":{
+		   "latitude": 30.349524,
+		   "longitude": -9.548912
+		}
+	 },
+	 {
+		 "title": "Pharmacie Zahra",
+		 "city": "Inezgane",
+		 "address": "",
+		tel: "",
+		 "coordinate":{
+		   "latitude": 30.3542149,
+		   "longitude": -9.5421936
+		}
+	 },
+	 {
+		 "title": "Pharmacie Amlal",
+		 "city": "Inezgane",
+		 "address": "336 A, Lot. Rmel, Tarrast, Inezgane, Agadir 80000",
+		tel: "tel:0528334181",
+		 "coordinate":{
+		   "latitude": 30.354672,
+		   "longitude": -9.533502
+		}
+	 },
+	 {
+		 "title": "Pharmacie Aabir",
+		 "city": "Inezgane",
+		 "address": "62 bis Avenue Hassan II, Inezgane 86150",
+		tel: "tel:0528333728",
+		 "coordinate":{
+		   "latitude": 30.360791,
+		   "longitude": -9.5393977
+		}
+	 },
+	 {
+		 "title": "Pharmacie Alandalouss",
+		 "city": "Inezgane",
+		 "address": "177, av Hassan II, cité Hassani , 80350 INEZGANE",
+		tel: "tel:0528335295",
+		 "coordinate":{
+		   "latitude": 30.3617739,
+		   "longitude": -9.5428189
+		}
+	 }
+]

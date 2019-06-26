@@ -1,0 +1,19 @@
+[         
+  { key: 0, section: true, label: "Specialities" },
+  { key: 1, label: "Tout Les Specialities" },
+  { key: 2, label: "Généraliste" },
+  { key: 3, label: "Gynécologie-obstétrique" },
+  { key: 4, label: "Cardiologie" },
+  { key: 5, label: "Gastro-entérologie" },
+  { key: 6, label: "Hépatologie" },
+  { key: 7, label: "Neurochirurgie" },
+  { key: 8, label: "Dermatologie" },
+  { key: 9, label: "Pédiatrie" },
+  { key: 10, label: "Urologie" },
+  { key: 11, label: "Oto-rhino-laryngologie" },
+  { key: 12, label: "Ophtalmologie" },
+  { key: 13, label: "Allergologie" },
+  { key: 14, label: "Diabétologie" },
+  { key: 15, label: "Vénéréologie" },
+  { key: 16, label: "Chirurgie orthopédique et traumatologique" }
+]

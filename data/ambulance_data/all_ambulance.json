@@ -1,0 +1,72 @@
+[
+  {
+    title: "INTER SECOURS ASSISTANCE",
+    city: "Agadir",
+    address: "15 bis . bloc f 8 rabiaa adaouia -dakhla AGADIR",
+    tel: "tel:0528823333",
+	  gsm: "tel:0528226060",
+  },
+  {
+    title: "ESSALAM ASSISTANCE",
+    city: "Agadir",
+    address: "34 rue numero 550 bouargane AGADIR",
+    tel: "tel:0528233233",
+	  gsm: "tel:0528239963",
+  },
+  {
+    title: "CROISSANT ROUGE MAROCAIN",
+    city: "Agadir",
+    address: "hopital hassan ii iligh AGADIR",
+    tel: "tel:0528841388",
+	  gsm: "tel:",
+  },
+  {
+    title: "AMAL ASSISTANCE",
+    city: "Agadir",
+    address: "27 boulevard el amir abdelkader amal assistance AGADIR",
+    tel: "tel:0528222098",
+	  gsm: "tel:0528238293",
+  },
+  {
+    title: "Service Ambulance et Assistance",
+    city: "Agadir",
+    address: "34, Boulevard Hadj Lahbib, les Amicales, Agadir",
+    tel: "tel:0528232323",
+	  gsm: "tel:",
+  },
+  {
+    title: "Assistance Médicale d'Urgence",
+    city: "Agadir",
+    address: "26, Rue Marrakech, bloc 12 N°1 quartier industriel, Agadir",
+    tel: "tel:0528828931",
+	  gsm: "tel:",
+  },
+  {
+    title: "Compagnie Marocaine des Pompes Funèbres et Cmpf Ambulances. Cmpf Assistance - Agadir ",
+    city: "Agadir",
+    address: "4, Boulevard Mohammed V, immeuble Mauritania, Agadir",
+    tel: "tel:0528824496",
+	  gsm: "tel:",
+  },
+  {
+    title: "Ambulance Privée Agadir - SOS médecin Agadir - Médecin à domicile Agadir ",
+    city: "Agadir",
+    address: "Boulevard Hassan II, Agadir 80000",
+    tel: "tel:0688817187",
+	  gsm: "tel:",
+  },
+  {
+    title: "Médicale Assistance du Souss",
+    city: "Agadir",
+    address: "123, rue Marrakech, imm. Achtouk, 1°ét. q.i. AGADIR",
+    tel: "tel:0528383838",
+	  gsm: "tel:0528380008",
+  },
+  {
+    title: "Sté.RAVISUD Ambulance",
+    city: "Inezgane",
+    address: "N° 68 RUE 105 JORF INEZGANE 86350 Inezgane",
+    tel: "tel:0662061919",
+	  gsm: "tel:"
+  }
+]
